@@ -8,7 +8,7 @@ Rishi Cheekatla - ES22BTECH11009
 Krishna Chaitanya - ES22BTECH11025
 Kosaraju Jyothsna Abhay - ES22BTECH11021
 
-#commads
+#commands
 -> minikube start
 -> kubectl apply -f data-aggregator-deployment.yaml
 -> kubectl apply -f tcp-monitor-daemonset.yaml
